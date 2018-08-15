@@ -1,0 +1,14 @@
+{
+  "name": "britecoreproject",
+  "version": "1.0.0",
+  "description": "Coding sample for Britecore application process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Zay",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
